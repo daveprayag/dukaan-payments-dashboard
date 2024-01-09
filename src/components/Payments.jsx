@@ -3,9 +3,9 @@ function Payments() {
     <>
       <main className="py-10 bg-gray-100">
         <div className="px-4 sm:px-6 lg:px-8 gap-6">
-          <div>
-            <div className="flex justify-between">
-              <h3 className="text-xl font-medium leading-6 text-black">
+          <div className="mb-6">
+            <div className="flex md:flex-row justify-between">
+              <h3 className="text-xl font-medium leading-6 text-black mb-4">
                 Overview
               </h3>
               <div className="flex justify-end">

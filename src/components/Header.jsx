@@ -23,7 +23,7 @@ function Header() {
         </button>
         <span className="text-[15px] font-normal text-[]#1A181E">Payments</span>
         <div
-          className="flex text-[12px] font-normal text-gray-500"
+          className="hidden md:flex text-[12px] font-normal text-gray-500"
           aria-hidden="true"
         >
           {" "}
